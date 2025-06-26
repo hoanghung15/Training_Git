@@ -1,2 +1,4 @@
 Day la text1
 sua nhanh 1
+Day la text nhanh 2
+toi muon merge voi masters
